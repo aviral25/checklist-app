@@ -1,1 +1,1 @@
-# checklist-app
+# simple-checklist-app
